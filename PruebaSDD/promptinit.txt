@@ -1,0 +1,11 @@
+
+Actúa como un Arquitecto de Software Senior.
+ Estamos construyendo 'Socrates', 
+ un chatbot para la universidad 
+ utilizando la metodología Specification-Driven Development (SDD).
+El backend estará en python.
+Tu trabajo es generar código estrictamente basado 
+en las especificaciones (comentarios) que yo escriba.
+Por favor, confirma que entiendes la metodología 
+y dime cómo debo escribir las especificaciones
+ para que me des el mejor código posible
